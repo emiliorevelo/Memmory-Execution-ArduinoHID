@@ -1,4 +1,4 @@
-# Memmory-Execution-ArduinoHID
+# Memory-Execution-ArduinoHID
 
 Script for 32u4 and SAMD based boards, that enables an Arduino to interact as a Human Interface Device (HID), a keyboard.
 
