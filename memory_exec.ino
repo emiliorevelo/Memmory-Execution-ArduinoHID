@@ -1,5 +1,7 @@
 #include <Keyboard.h>
 
+//If you want to use this script in spanish, you need to adjust the keys
+
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
   digitalWrite(LED_BUILTIN, HIGH);
